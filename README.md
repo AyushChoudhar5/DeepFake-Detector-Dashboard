@@ -17,7 +17,7 @@ A cutting-edge frontend interface for detecting AI-generated deepfake media, fea
 ### 🎮 User Experience
 - Intuitive three-step workflow: Upload → Analyze → Results
 - Visual confidence scoring system
-- Mock forensic analysis visualization
+- Mock forensic analysis visualization.
 - Hover animations and interactive elements.
 - Loading skeleton screens for smooth transitions.
 
